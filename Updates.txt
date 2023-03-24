@@ -1,0 +1,7 @@
+-- March 24 2023
+
+Update!
+
+The AI space changes quickly, and OpenAI announced the deprecation of the "code-davinci-002" model series.  This is because due to their large training datasets, the normal text models are actually very good at understanding code too, so OpenAI seems to be moving away from models designed for specific coding tasks, and instead general models that can handle both text and code
+
+In the video, you will see us pass in ''code-davinci-002", to comply with the latest updates, please use "text-davinci-003" instead. Since that is the only change, we've decided not to re-film everything, since its just a single string change.
